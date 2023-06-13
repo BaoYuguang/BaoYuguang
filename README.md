@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaoYuguang
+- 👋 Hi, I’m @Yuguang Bao
 - 👀 I’m interested in complex network and graph theory
 - 🌱 I’m currently learning graph theory
 - 💞️ I’m looking to collaborate on ...
